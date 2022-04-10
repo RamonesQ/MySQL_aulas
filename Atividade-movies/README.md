@@ -25,7 +25,8 @@ h. Linguagem Original Brasileira
 i. Gênero: comédia
 j. Os demais valores são nulos
 5. Você deve atualizar o nome da linguagem com ID 24701 para
-desconhecido6. Você deve listar todas as pessoas ligadas ao cinema cadastrada com o
+desconhecido
+6. Você deve listar todas as pessoas ligadas ao cinema cadastrada com o
 nome lee, independente se é sobrenome ou primeiro nome. Deve ter o
 resultado de 965 pessoas.
 7. você deve listar todos os filmes com duração maior de 130 minutos. Deve
